@@ -1,2 +1,2 @@
-# gh-action
+# gh-actions
 Learn GitHub Actions
